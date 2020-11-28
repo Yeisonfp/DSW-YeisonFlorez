@@ -39,9 +39,17 @@ nav.navbar ul.nav li {
 /*.*/
 
 footer {
-    background-color: #b3b3b3;
+    background-color: #333333;
     padding: 25px;
   }
+
+p.contacto {
+  color: #ffffff;
+}
+
+strong.contacto{
+  color: #ffffff;
+}
 
   .carousel-inner img {
     width: 100%; 
